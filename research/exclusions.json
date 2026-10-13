@@ -1,0 +1,10 @@
+{
+  "bon-sai": "Empty repository; no technical material to curate.",
+  "datasciencecoursera": "Only an introductory HelloWorld.md file; no substantive AI post.",
+  "datasharing": "Fork of the Leek group data-sharing guide, not an original AI publication.",
+  "LaSER": "Third-party paper implementation fork. No original Ravi-authored guide established; do not present the upstream work as his implementation.",
+  "smack": "Linux security userspace project; outside this AI collection.",
+  "TizenRT": "Fork of an embedded RTOS; outside this AI collection.",
+  "SriRamanaDentalCare": "Dental clinic and patient application page, without AI technical content.",
+  "Grace": "Current 0.3.0 source and live page explicitly remove the model runtime and vector index; no longer an AI project in its current form."
+}
