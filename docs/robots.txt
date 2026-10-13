@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ravisankarg.github.io/Blog/sitemap.xml
