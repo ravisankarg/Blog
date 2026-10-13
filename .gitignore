@@ -1,0 +1,7 @@
+research/readmes.json
+research/live-pages.json
+research/discovery/
+__pycache__/
+.DS_Store
+.publish/
+qa/
